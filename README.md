@@ -1,4 +1,4 @@
-Laravel Tag Plugin
+Laravel Tag Plugin (Fork)
 ============
 
 [![Latest Stable Version](https://poser.pugx.org/rtconner/laravel-tagging/v/stable.svg)](https://packagist.org/packages/rtconner/laravel-tagging)
